@@ -13,7 +13,7 @@ This script uses `tkinter` to open a dialog box allowing you to select a folder 
 Clone this repository and navigate into it:
 
 ```bash
-git clone
+git clone https://github.com/varadrane7/Directory-Organizer.git
 cd FolderOrganizer
 ```
 
