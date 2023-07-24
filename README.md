@@ -2,7 +2,7 @@ Sure, here is a simple `README.md` file for your GitHub repository.
 
 # DirectoryOrganizer
 
-Folder Organizer is a simple Python script to sort and organize your files into respective folders.
+Directory Organizer is a simple Python script to sort and organize your files into respective folders.
 
 ## Description
 
@@ -14,7 +14,7 @@ Clone this repository and navigate into it:
 
 ```bash
 git clone https://github.com/varadrane7/Directory-Organizer.git
-cd FolderOrganizer
+cd Directory-Organizer
 ```
 
 Make sure you have Python 3 installed on your machine:
