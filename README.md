@@ -1,6 +1,6 @@
 Sure, here is a simple `README.md` file for your GitHub repository.
 
-# Folder Organizer
+# DirectoryOrganizer
 
 Folder Organizer is a simple Python script to sort and organize your files into respective folders.
 
